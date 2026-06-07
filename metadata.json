@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Restaurant Menu",
+  "description": "An interactive digital restaurant menu featuring table-specific QR codes, multi-language support, real-time admin dish/price updates, and digital ordering.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
